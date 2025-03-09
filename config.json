@@ -1,8 +1,8 @@
 {
-	"prefix": "!",
+	"prefix": ".",
 	"autoread": true,
 	"mongodb": "",
-	"ownerNumber": [""],
+	"ownerNumber": ["94776794857"],
 	"host": "https://domain.tld",
 	"application": {
 		"api_key": ""
